@@ -50,8 +50,8 @@ Below are some visualizations generated during the analysis:
 #### Calls Over Time by Reason
 ![Calls Over Time by Reason](images/911_calls_over_course_time_by_reason.png)
 
-#### Heatmap of Calls by Day and Hour
-![Heatmap of Calls by Day and Hour](images/Heatmap_of_calls_by_day_&_hour.png)
+#### Heatmap of Calls by Day and Month
+![Heatmap of Calls by Day and Hour](images/Heatmap_of_calls_by_day_&_month.png)
 
 #### Monthly Trend of 911 Calls
 ![Monthly Trend of 911 Calls](images/monthly_trend_of_911_calls.png)
